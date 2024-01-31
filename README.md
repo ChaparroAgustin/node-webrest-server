@@ -2,7 +2,7 @@
 
 
 
-1.Clone .env.template and create the new one. 
+1.Clone .env.template and create the .env 
 
 
 
